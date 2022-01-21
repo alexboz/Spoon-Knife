@@ -1,0 +1,1 @@
+I think I would prefer to work with a common repository as it seems simpler for smaller projects and keeps everything in one place.
